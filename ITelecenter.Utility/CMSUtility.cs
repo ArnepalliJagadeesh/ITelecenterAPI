@@ -115,11 +115,13 @@ namespace ITelecenter.Utility
 
         public static void UpdateVisitorInformation(int v, int voiceTranscription, iTCPlan objiTCPlan)
         {
+            //spCMSOnlineHoldingTbl_UpdateSignUpInfo
             throw new NotImplementedException();
         }
 
         public static void InsertVistiorInfomation(string webID, int intNMCompanyID, string ipAddress, int voiceTranscription, iTCPlan objiTCPlan, ref int intCMSOnlineHoldingID)
         {
+            // spCMSOnlineHoldingTbl_Insert
             throw new NotImplementedException();
         }
     }
